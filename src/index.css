@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.slick-arrow{
+    width: 100px;
+    height:100px;
+    font-weight: bold;
+}
